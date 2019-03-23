@@ -1,13 +1,19 @@
 # crabrave
 #
-# Comments
+# Revision History
 # How to use Git
+
+#
+# Revision
+#
+
+
+
+
 
 #
 # How to use GIT
 #
-
-
 
 REFERENCES:
 http://rogerdudler.github.io/git-guide/
@@ -87,8 +93,6 @@ git push origin master
 
 # see what the status is
 git status
-
-
 
 
 
